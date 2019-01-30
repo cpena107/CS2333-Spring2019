@@ -1,4 +1,4 @@
-# CSCI/CMPE 2333.02: Computer Organization and
+# CSCI/CMPE 2333.01: Computer Organization and
 
 # Assembly Language
 
@@ -8,7 +8,7 @@
 
 ```
 E-mail:carlos.penacaballero01@utrgv.edu Web: github.com/cpena107/CS2333-Spring
-Class Hours: TR: 10:50-12:05 Office Hours: MTWR 3:00pm-4:20pm
+Class Hours: MW 1:40pm-2:55 pm Office Hours: MTWR 3:00pm-4:20pm
 Class Room: IEAB 1.204 Office: IEAB 3.
 ```
 ## Textbooks
@@ -103,115 +103,119 @@ The following is a general outline for the course and may be revised as the seme
 In this, ST is Stallings book, and IR is Irvines book.
 ```
 ```
-Tuesday Thursday
-Jan 15th
+Monday Wednesday
+Jan 14th
 Computer Numbers and ArithmeticST: 9
 ```
 ```
-17th
-Computer Numbers and ArithmeticST: 9
-22nd
-Computer EvolutionST: 1-
-```
-```
-24th
-Computer FunctionST: 3
-29th
-Internal & External MemoryST: 5-
-```
-```
-31st
-Internal & External MemoryST: 5-
-```
-```
-Feb 5th
-Review
-```
-```
-7th
-Exam 1
-12th
-Assembly Language Fundamentals / LAB
-IR: 3
-```
-```
-14th
-Assembly Language Fundamentals / LAB
-IR: 3
-19th
-Data transfer; Arithmetic; AddressingIR: 4
-```
-```
-21st
-Data transfer; Arithmetic; AddressingIR: 4
-26th
-Procedures and Parameter PassingIR: 5
-```
-```
-28th
-Procedures and Parameter PassingIR: 5
-```
-```
-Mar 5th
-Logic and Decision InstructionsIR: 6
-```
-```
-7th
-Logic and Decision InstructionsIR: 6
-12th
-Spring Break
-```
-```
-14th
-Spring Break
-19th
-Review
-```
-```
-21st
-Exam 2
-26th
-Integer ArithmeticIR: 7
-```
-```
-28th
-Integer ArithmeticIR: 7
-```
-
-```
-Tuesday Thursday
-Apr 2nd
-Advanced ProceduresIR: 8
-```
-```
-4th
-Advanced ProceduresIR: 8
-9th
-Reverse Engineering
-```
-```
-11th
-Exploiting Vulnerabilities in Binaries
 16th
-Misc topics as time permits
+Computer Numbers and ArithmeticST: 9
+21st
+MLK
 ```
 ```
-18th
-Misc topics as time permits
 23rd
-Misc topics as time permits
-```
-```
-25th
-Misc topics as time permits
+Computer EvolutionST: 1-
+28th
+Computer FunctionST: 3
 ```
 ```
 30th
+Internal & External MemoryST: 5-
+```
+```
+Feb 4th
+Internal & External MemoryST: 5-
+```
+```
+6th
+Review
+11th
+Exam 1
+```
+```
+13th
+Assembly Language Fundamentals / LAB
+IR: 3
+18th
+Assembly Language Fundamentals / LAB
+IR: 3
+```
+```
+20th
+Data transfer; Arithmetic; AddressingIR: 4
+```
+```
+25th
+Data transfer; Arithmetic; AddressingIR: 4
+```
+```
+27th
+Procedures and Parameter PassingIR: 5
+```
+```
+Mar 4th
+Procedures and Parameter PassingIR: 5
+```
+```
+6th
+Logic and Decision InstructionsIR: 6
+11th
+Spring Break
+```
+```
+13th
+Spring Break
+18th
+Logic and Decision InstructionsIR: 6
+```
+```
+20th
+Review
+```
+
+```
+Monday Wednesday
+25th
+Exam 2
+```
+```
+27th
+Integer ArithmeticIR: 7
+```
+```
+Apr 1st
+Integer ArithmeticIR: 7
+```
+```
+3rd
+Advanced ProceduresIR: 8
+8th
+Advanced ProceduresIR: 8
+```
+```
+10th
+Reverse Engineering
+15th
+Exploiting Vulnerabilities in Binaries
+```
+```
+17th
+Misc topics as time permits
+22nd
+Misc topics as time permits
+```
+```
+24th
+Misc topics as time permits
+```
+```
+29th
+Misc topics as time permits
+```
+```
+May 1st
 Final Exam
-```
-```
-May 2nd
-Study Day
 ```
 ## Important Dates
 
@@ -234,10 +238,10 @@ At the end of this course, the student should be able to
 2. Demonstrate an understanding of the basic building blocks and their role in the historical
     development of computer architecture.
 3. Design a simple circuit using the fundamental building blocks.
+
+
 4. Explain how interrupts are used to implement I/O control and data transfers.
 5. Identify various types of buses in a computer system.
-
-
 6. Explain the reasons for using different formats to represent numerical data.
 7. Explain how negative integers are stored in sign magnitude and twos complement repre-
     sentation.
@@ -266,6 +270,7 @@ machine language level.
     nent, or program to meet desired needs.
 4. An ability to use current techniques, skills, and tools necessary for computing practice.
 
+
 ## Students with Disabilities
 
 Students with a documented disability (physical, psychological, learning, or other disability
@@ -273,8 +278,6 @@ which affects academic performance) who would like to receive academic accommoda
 contact Student Accessibility Services (SAS) as soon as possible to schedule an appointment to
 initiate services. Accommodations can be arranged through SAS at any time, but are not retroac-
 tive. Students who suffer a broken bone, severe injury or undergo surgery during the semester
-
-
 are eligible for temporary services. **Brownsville Campus:** Student Accessibility Services is lo-
 cated in Cortez Hall Room 129 and can be contacted by phone at (956) 882-7374 (Voice) or via
 email at ability@utrgv.edu. **Edinburg Campus:** Student Accessibility Services is located in 108
@@ -313,6 +316,7 @@ all students and the integrity of the University, policies on scholastic dishone
 enforced (Board of Regents Rules and Regulations and UTRGV Academic Integrity Guidelines).
 All scholastic dishonesty incidents will be reported to the Dean of Students.
 
+
 ## Sexual Harassment, Discrimination, and Violence
 
 In accordance with UT System regulations, your instructor is a “Responsible Employee” for re-
@@ -320,8 +324,6 @@ porting purposes under Title IX regulations and so must report any instance, occ
 student’s time in college, of sexual assault, stalking, dating violence, domestic violence, or sexual
 harassment about which she/he becomes aware during this course through writing, discussion,
 or personal disclosure. More information can be found at [http://www.utrgv.edu/equity,](http://www.utrgv.edu/equity,) including
-
-
 confidential resources available on campus. The faculty and staff of UTRGV actively strive to
 provide a learning, working, and living environment that promotes personal integrity, civility,
 and mutual respect that is free from sexual misconduct and discrimination.
