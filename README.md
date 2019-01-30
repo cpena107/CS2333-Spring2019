@@ -101,7 +101,6 @@ The following is a general outline for the course and may be revised as the seme
 In this, ST is Stallings book, and IR is Irvines book.
 ```
 ```
-Monday Wednesday
 Jan 14th
 Computer Numbers and ArithmeticST: 9
 ```
@@ -173,7 +172,6 @@ Review
 ```
 
 ```
-Monday Wednesday
 25th
 Exam 2
 ```
