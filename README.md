@@ -7,7 +7,7 @@
 ## Spring 2019
 
 ```
-E-mail:carlos.penacaballero01@utrgv.edu Web: github.com/cpena107/CS2333-Spring
+E-mail:carlos.penacaballero01@utrgv.edu
 Class Hours: MW 1:40pm-2:55 pm Office Hours: MTWR 3:00pm-4:20pm
 Class Room: IEAB 1.204 Office: IEAB 3.
 ```
@@ -38,8 +38,6 @@ continue the course of studies in Computer Science.
 - **20%** of your grade will be determined by assignments (in-class or at home) and quizzes
 - **20%** of your grade will be determined by programming assignments
 - **20%** of your grade will be determined by a final exam.
-
-### 1
 
 
 ## Assignments
