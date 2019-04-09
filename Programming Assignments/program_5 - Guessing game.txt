@@ -1,0 +1,5 @@
+Write a program that generates a random number.
+Ask the user to guess the number.
+If their guess is too high, tell them "too high"
+If it is too low tell them "too low" If it is correct tell them "Yayyy you did it. It only took you X tries"
+Where X is the number of tries it took.

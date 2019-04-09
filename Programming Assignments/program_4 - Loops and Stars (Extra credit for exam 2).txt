@@ -1,0 +1,7 @@
+Write a program that reads an integer from the keyboard and displays a triangle of stars.
+Example input: 4
+example output:
+****
+***
+**
+*
