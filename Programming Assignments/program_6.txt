@@ -1,0 +1,16 @@
+Do the same assignment as program 4 but instead of you guessing the computers number, the computer tries to guess your number. Use the provided code as a starting point.
+
+You think of a number (between 1 - 100)
+
+Computer takes a guess
+
+You type "too high" or "too low" or "yes"
+
+Based on that, the computer adjusts its guess.
+
+(Extra Credit). Devise an algorithm that solves this in 10 or less steps
+
+Hint: attached to this assignment there is an example program to compare two strings in MASM.
+
+
+
